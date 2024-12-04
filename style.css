@@ -1,16 +1,15 @@
 body{
-    max-width: 400px ;
     padding: 0;
     margin: 0;
     background-color: rgba(0, 0, 0, 0.919);
-    padding: 20vh 40vw;
+    display: flex;
+    justify-content: center;
+    padding-top: 20vh;
    
 }
 
 article{
     box-sizing: border-box;
-    width: 350px;
-    height: auto;
     background-color: rgba(54, 54, 54, 0.295);
     color: white;
     text-align: center;
